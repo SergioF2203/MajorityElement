@@ -10,7 +10,7 @@ namespace MajorityElement
     {
         static void Main(string[] args)
         {
-
+            Solution.MajorityElement(new int[] { 1, 1, 2, 2, 2, 2, 3 });
         }
     }
 }
