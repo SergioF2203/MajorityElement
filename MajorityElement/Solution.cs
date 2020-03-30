@@ -8,5 +8,9 @@ namespace MajorityElement
 {
     class Solution
     {
+        public int MajorityElement(int[] nums)
+        {
+            return 0;
+        }
     }
 }
