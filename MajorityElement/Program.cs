@@ -10,6 +10,7 @@ namespace MajorityElement
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
